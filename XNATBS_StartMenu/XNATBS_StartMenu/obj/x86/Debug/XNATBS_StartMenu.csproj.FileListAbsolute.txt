@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\bin\x86\Debug\XNATBS_StartMenu.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\bin\x86\Debug\XNATBS_StartMenu.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\obj\x86\Debug\XNATBS_StartMenu.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS_StartMenu\XNATBS_StartMenu\obj\x86\Debug\XNATBS_StartMenu.pdb

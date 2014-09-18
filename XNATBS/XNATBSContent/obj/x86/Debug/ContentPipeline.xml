@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hexes\hexgrass.png</Source>
+      <Name>Hexes\TileGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\TileGrass.xnb</Output>
+      <Time>2010-10-08T00:55:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>reddot.png</Source>
+      <Name>reddot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\reddot.xnb</Output>
+      <Time>2010-10-09T20:13:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\hex.png</Source>
+      <Name>Hexes\Hex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\Hex.xnb</Output>
+      <Time>2010-10-09T20:21:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Creatures\hero.png</Source>
+      <Name>Creatures\CreatureHero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Creatures\CreatureHero.xnb</Output>
+      <Time>2010-10-10T23:23:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\redhex.png</Source>
+      <Name>Hexes\HexRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\HexRed.xnb</Output>
+      <Time>2011-01-24T21:48:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\hexwall.png</Source>
+      <Name>Hexes\TileWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\TileWall.xnb</Output>
+      <Time>2011-02-23T21:56:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Creatures\goblin.png</Source>
+      <Name>Creatures\CreatureGoblin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Creatures\CreatureGoblin.xnb</Output>
+      <Time>2011-01-30T17:50:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\MouseBasic.png</Source>
+      <Name>Mouse\MouseBasic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Mouse\MouseBasic.xnb</Output>
+      <Time>2011-02-06T13:38:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\MouseAttack.png</Source>
+      <Name>Mouse\MouseAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Mouse\MouseAttack.xnb</Output>
+      <Time>2011-02-06T13:37:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\MouseBoots.png</Source>
+      <Name>Mouse\MouseBoots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Mouse\MouseBoots.xnb</Output>
+      <Time>2011-02-06T13:38:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\MouseForbidden.png</Source>
+      <Name>Mouse\MouseForbidden</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Mouse\MouseForbidden.xnb</Output>
+      <Time>2011-02-06T13:39:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\hexfog.png</Source>
+      <Name>Hexes\HexFog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\HexFog.xnb</Output>
+      <Time>2011-01-30T21:25:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\hexUnexplored.png</Source>
+      <Name>Hexes\HexUnexplored</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\HexUnexplored.xnb</Output>
+      <Time>2011-01-30T21:25:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>InventorySlot.png</Source>
+      <Name>InventorySlot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\InventorySlot.xnb</Output>
+      <Time>2011-02-07T00:18:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\ItemSword.png</Source>
+      <Name>Items\ItemSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Items\ItemSword.xnb</Output>
+      <Time>2011-01-31T19:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\ItemShield.png</Source>
+      <Name>Items\ItemShield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Items\ItemShield.xnb</Output>
+      <Time>2011-01-31T21:17:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\MousePickup.png</Source>
+      <Name>Mouse\MousePickup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Mouse\MousePickup.xnb</Output>
+      <Time>2011-02-06T13:39:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\ParticlePixel.png</Source>
+      <Name>Particles\ParticlePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Particles\ParticlePixel.xnb</Output>
+      <Time>2011-02-05T21:52:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBox.png</Source>
+      <Name>MenuBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\MenuBox.xnb</Output>
+      <Time>2011-02-06T23:14:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonArrow.png</Source>
+      <Name>ButtonArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\ButtonArrow.xnb</Output>
+      <Time>2011-02-07T00:04:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\HexSwamp.png</Source>
+      <Name>Hexes\TileSwamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\TileSwamp.xnb</Output>
+      <Time>2011-02-14T10:48:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\HexForest.png</Source>
+      <Name>Hexes\TileForest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\TileForest.xnb</Output>
+      <Time>2011-02-14T10:56:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Hexes\HexFilled.png</Source>
+      <Name>Hexes\HexFilled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Hexes\HexFilled.xnb</Output>
+      <Time>2011-02-14T14:20:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\ItemBow.png</Source>
+      <Name>Items\ItemBow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Items\ItemBow.xnb</Output>
+      <Time>2011-02-15T21:43:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellIcons\IconSkillMelee.png</Source>
+      <Name>SpellIcons\SkillMelee</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\SpellIcons\SkillMelee.xnb</Output>
+      <Time>2011-02-18T16:31:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellIcons\IconSkillRanged.png</Source>
+      <Name>SpellIcons\SkillRanged</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\SpellIcons\SkillRanged.xnb</Output>
+      <Time>2011-02-18T16:31:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\ParticleArrow.png</Source>
+      <Name>Particles\ParticleArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\Particles\ParticleArrow.xnb</Output>
+      <Time>2011-02-26T18:48:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameTitle.png</Source>
+      <Name>GameTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\GameTitle.xnb</Output>
+      <Time>2011-02-26T21:49:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>hudFont.spritefont</Source>
+      <Name>hudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\hudFont.xnb</Output>
+      <Time>2011-01-30T20:08:00-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBSContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBSContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-15T14:58:59.3535415-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

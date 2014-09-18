@@ -1,0 +1,2 @@
+c:\users\administrator\documents\visual studio 2010\Projects\XNATBS\XNATBS\XNATBSContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rado\Documents\Visual Studio 2010\Projects\XNATBS\XNATBS\XNATBSContent\obj\x86\Debug\XNATBSContent.contentprojResolveAssemblyReference.cache
